@@ -72,9 +72,13 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"touhou01.jpg",
-	"touhou02.jpg",
-	"touhou03.jpg"
+	"MBNPKSA.png",
+	"cool_mountains_4k-HD.jpg",
+        "download (1).jpg",
+	"firewatch-forest-mountains-minimalism-4k-hb-2560x1600.jpg",
+	"neon-highway-4k-nz-2560x1600.jpg",
+	"yokohama-at-night-noen-city-4k-00-2560x1600.jpg",
+	"desktop-top-wallpapers-for-computer-hd-wallpapers-mac-wallpapers-tablet-artworks-4k-best-wallpaper-ever-wallpaper-for-iphone-pictures-2560x1600.jpg"
 ];
 
 // (Image-background only)
