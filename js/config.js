@@ -106,11 +106,11 @@ var l_bgDarkening = 50;
 
 // Play music during the loading screen?
 // 'true' or 'false'
-var l_music = true;
+var l_music = false;
 
 // Display current music name?
 // 'true' or 'false'
-var l_musicDisplay = true;
+var l_musicDisplay = false;
 
 // Music playlist
 // Add as many youtube ids/urls or ogg files you want
@@ -137,9 +137,11 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Enjoy the server",
-	"Thanks for joining us!",
-	"Did you know these backgrounds and music are from Touhou?",
+	"Shut up and give me fucking kiss, fucking gay.",
+	"Call a pet store and ask if you can buy a cow",
+	"*insert funny joke here*",
+	"Welcome To QuantumRP",
+	"you should suck my motha fuckin one inch dick",
 ];
 
 // Random message order?
