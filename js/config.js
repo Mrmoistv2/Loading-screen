@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "QuantumRP";
+var l_serverName = "";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -142,6 +142,7 @@ var l_messages = [
 	"*insert funny joke here*",
 	"Welcome To QuantumRP",
 	"you should suck my motha fuckin one inch dick",
+	"you should watch out for the joker, he tends to be pretty serious",
 ];
 
 // Random message order?
